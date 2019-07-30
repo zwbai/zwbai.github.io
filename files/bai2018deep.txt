@@ -1,0 +1,7 @@
+@inproceedings{bai2018deep,
+  title={Deep Learning Based Motion Planning For Autonomous Vehicle Using Spatiotemporal LSTM Network},
+  author={Bai, Zhengwei and Cai, Baigen and ShangGuan, Wei and Chai, Linguo},
+  booktitle={2018 Chinese Automation Congress (CAC)},
+  pages={1610--1614},
+  organization={IEEE}
+}
