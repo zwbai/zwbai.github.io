@@ -1,0 +1,6 @@
+@article{bai2019deep,
+  title={Deep Reinforcement Learning Based High-level Driving Behavior Decision-making Model in Heterogeneous Traffic},
+  author={Bai, Zhengwei and Cai, Baigen and Shangguan, Wei and Chai, Linguo},
+  journal={arXiv preprint arXiv:1902.05772},
+  year={2019}
+}
