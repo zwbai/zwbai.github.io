@@ -1,4 +1,4 @@
-# [Personal Website: www.zhengweibai.com](https://www.zhengweibai.com)
+# [Personal Website]
 
 ## This is my personal website based on [Bootstrap](http://getbootstrap.com/) and  [Start Bootstrap](http://startbootstrap.com/). 
 
